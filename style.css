@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+img {
+  
+}
+
+navbar a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: : blue;
+}
+
+figcaption {
+  font-size: 12px;
+  text-align: center;
+}
