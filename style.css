@@ -33,10 +33,6 @@ figcaption {
   display: block;
 }
 
-div#details {
-  float: left;
-}
-
 div {
   background-color: red;
   width: 25%;
