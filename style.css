@@ -31,10 +31,10 @@ figcaption {
 }
 
 #details div {
-  display: block;
+  display: block;background-color: red;
+  width: 25%;
 }
 
 div {
-  background-color: red;
-  width: 25%;
+  
 }
